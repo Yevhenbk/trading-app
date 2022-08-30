@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Trading App
+
+![This is an image](https://github.com/Yevhenbk/trading-app/blob/main/public/2022-08-30%2014-02-46_Trim.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
