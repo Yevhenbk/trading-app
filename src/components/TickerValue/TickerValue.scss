@@ -1,0 +1,28 @@
+.tickerv__holder {
+    text-align: center;
+}
+.tickerv__button {
+    position: relative;
+    border: none;
+    font-weight: 500;
+    background-color: var(--teritary-color);
+    font-size: 26px;
+    color: var(--primary-color);
+    padding: .75rem 1rem;
+    width: 30rem;
+    height: 6rem;
+    cursor: pointer;
+}
+.tickerv__button:hover {
+    background-color: var(--cintary-color);
+}
+.average__value {
+    margin: 0;
+}
+@media screen and (max-width: 613px) {
+    .tickerv__button {
+        font-size: 18px;
+        width: 20rem;
+        height: 4rem;
+    }
+}
